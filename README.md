@@ -1,5 +1,5 @@
 
-# Mortal Metrics
+# Mortality and Tobacco use in the US: The “Smoking” Gun
 
 We created a combined dataset using the "NCHS - Leading Causes of Death: United States" and "Behavioral Risk Factor Data: Tobacco Use (2011 to present)" datasets which are publicly available from the CDC.
 
