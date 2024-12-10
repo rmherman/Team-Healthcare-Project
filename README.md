@@ -43,6 +43,6 @@ NCHS - Leading Causes of Death: United States:
 Behavioral Risk Factor Data: Tobacco Use (2011 to present): [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1-0/)
 ## Screenshots of Potential Application
 
-![Heatmaps](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Heatmaps](Images/Heatmaps.png)
 
-![Correlation using r-value](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Correlation using r-value](Images/Correlation.png)
